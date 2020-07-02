@@ -1,0 +1,14 @@
+.MovieCard {
+  width: 200px;
+  height: 400px;
+  margin: 10px ;
+  border: blue 2px solid;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+p {
+  text-align: justify;
+}
