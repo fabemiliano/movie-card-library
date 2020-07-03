@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/trivia-game/static/css/main.cfda52d5.chunk.css",
-    "main.js": "/trivia-game/static/js/main.43eb83d4.chunk.js",
-    "main.js.map": "/trivia-game/static/js/main.43eb83d4.chunk.js.map",
-    "runtime-main.js": "/trivia-game/static/js/runtime-main.31c75550.js",
-    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.31c75550.js.map",
-    "static/js/2.838aab56.chunk.js": "/trivia-game/static/js/2.838aab56.chunk.js",
-    "static/js/2.838aab56.chunk.js.map": "/trivia-game/static/js/2.838aab56.chunk.js.map",
-    "index.html": "/trivia-game/index.html",
-    "precache-manifest.d2ce245ba760989e70f1781a0ea5b6c4.js": "/trivia-game/precache-manifest.d2ce245ba760989e70f1781a0ea5b6c4.js",
-    "service-worker.js": "/trivia-game/service-worker.js",
-    "static/css/main.cfda52d5.chunk.css.map": "/trivia-game/static/css/main.cfda52d5.chunk.css.map"
+    "main.css": "/movie-card-library/static/css/main.cfda52d5.chunk.css",
+    "main.js": "/movie-card-library/static/js/main.e9509bbc.chunk.js",
+    "main.js.map": "/movie-card-library/static/js/main.e9509bbc.chunk.js.map",
+    "runtime-main.js": "/movie-card-library/static/js/runtime-main.5e2fcb14.js",
+    "runtime-main.js.map": "/movie-card-library/static/js/runtime-main.5e2fcb14.js.map",
+    "static/js/2.838aab56.chunk.js": "/movie-card-library/static/js/2.838aab56.chunk.js",
+    "static/js/2.838aab56.chunk.js.map": "/movie-card-library/static/js/2.838aab56.chunk.js.map",
+    "index.html": "/movie-card-library/index.html",
+    "precache-manifest.541c115c91f33844143ced00d0bd30b3.js": "/movie-card-library/precache-manifest.541c115c91f33844143ced00d0bd30b3.js",
+    "service-worker.js": "/movie-card-library/service-worker.js",
+    "static/css/main.cfda52d5.chunk.css.map": "/movie-card-library/static/css/main.cfda52d5.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.31c75550.js",
+    "static/js/runtime-main.5e2fcb14.js",
     "static/js/2.838aab56.chunk.js",
     "static/css/main.cfda52d5.chunk.css",
-    "static/js/main.43eb83d4.chunk.js"
+    "static/js/main.e9509bbc.chunk.js"
   ]
 }
